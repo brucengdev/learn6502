@@ -1,6 +1,6 @@
-LDA #02     ; RED
+LDA #$02     ; RED
 STA $0200   
-LDA #05     ; GREEN
+LDA #$05     ; GREEN
 STA $0201
-LDA #06     ; BLUE
+LDA #$06     ; BLUE
 STA $0202
